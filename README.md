@@ -1,6 +1,7 @@
 # Personal Portfolio Website
 
 Responsive portfolio built with HTML, CSS and JavaScript (no frameworks).
+Live site: https://developwithmahendra.github.io/personal-portfolio/
 
 ## Run it
 Open `index.html` in any modern browser. No build step or server is needed.
